@@ -7,6 +7,6 @@ The subject area of this data is **hospitality management**. This data was acqui
 Since this is hotel real data, all data elements pertaining hotel or customer identification were deleted. Due to the scarcity of real business data for scientific and educational purposes, these datasets can have an important role for research and education in revenue management, machine learning, as well as in other fields.
 
 This Exploratory Data Analysis was created by Team 6 of *Job Connector Data Science of Purwadhika Batch 10*:
-- Teguh Aria
-- Sekar Krismaya Weni
+- [Teguh Aria](https://github.com/teguharia172/Hotel-Booking-Analysis)
+- [Sekar Krismaya Weni](https://github.com/sekar290/Hotel-Booking-Demand)
 - Brian Ivan Cusuanto
