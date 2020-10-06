@@ -6,6 +6,16 @@ The subject area of this data is **hospitality management**. This data was acqui
 
 Since this is hotel real data, all data elements pertaining hotel or customer identification were deleted. Due to the scarcity of real business data for scientific and educational purposes, these datasets can have an important role for research and education in revenue management, machine learning, as well as in other fields.
 
+#Problems
+1. One in four hotel guests are canceling their booking ahead of a stay - an increase being driven by the sales tactics of online travel agencies.
+The trend is causing problems for hoteliers who are unable to accurately forecast occupancy within their revenue management departments and creates headaches when organizing distribution across various channels. [PhocusWire](https://www.phocuswire.com/Hotel-distribution-market-share-distribution-analysis#:~:text=The%20average%20cancelation%20rate%20in,of%206.4%25%20over%20four%20years)
+2. Resource management in the hotel is one of the strategies that should be focused on. Imagine if a restaurant’s team has expired groceries. Imagine if many workers like waiters or waitresses have much their own idle time. 
+We, as a management level of the hotel, do not want these inefficient resources as we could lose our money and increase many costs, especially on humans and food.
+
+# Goals
+1. Find out what lead into high cancellation rate for hotels.
+2. Maximize resources within hotels.
+
 # Conclusion
 - Number Booking have a positive correlation with the number of cancellation
 - Group Booking is the only market segment that have a higher cancellation  arrival  compared to it’s confirmed arrival
