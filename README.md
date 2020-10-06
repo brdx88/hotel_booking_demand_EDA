@@ -13,21 +13,21 @@ The trend is causing problems for hoteliers who are unable to accurately forecas
 We, as a management level of the hotel, do not want these inefficient resources as we could lose our money and increase many costs, especially on humans and food.
 
 # Goals
-1. Find out what lead into high cancellation rate for hotels.
+1. Find out what lead into high cancelation rate for hotels.
 2. Maximize resources within hotels.
 
 # Conclusion
-- Number Booking have a positive correlation with the number of cancellation
-- Group Booking is the only market segment that have a higher cancellation  arrival  compared to it’s confirmed arrival
-- Customer who has 7 month or more lead time have a higher tendencies to cancel their booking
-- Traveler that has cancelled 1 time before has the highest tendencies to cancel again
-- Guests tend to book their rooms with breakfast instead of lunch or dinner.
-- Most guests come and start to stay in May, July, August, and October.
-- In Portugal, the busiest month in the hotels are July and August, especially on Saturday and Monday when guests start to check-in.
+1. Number Booking have a positive correlation with the number of cancellation
+2. Group Booking is the only market segment that have a higher cancellation  arrival  compared to it’s confirmed arrival
+3. Customer who has 7 month or more lead time have a higher tendencies to cancel their booking
+4. Traveler that has cancelled 1 time before has the highest tendencies to cancel again
+5. Guests tend to book their rooms with breakfast instead of lunch or dinner.
+6. Most guests come and start to stay in May, July, August, and October.
+7. In Portugal, the busiest month in the hotels are July and August, especially on Saturday and Monday when guests start to check-in.
 
 # Recommendations
-- **More Rigid /Stricter  Cancellation T&C  For Customer Who has Cancelled Before.** This is  one way to  reducing the tendencies of customers who have cancelled before to cancelled again.
-- **Non Refundable Only for Group Booking.** Group Booking has a higher cancellation rate compared to the confirmed rate,  with this policy hotel would not suffer  any loss revenue caused by cancelled group booking.
-- **Non Refundable Booking Only For Booking with More than 210 lead days.** Since Customer who has more than 210  lead days has a higher chance of cancellation, having this policy will protect the hotel from losing revenue.
-- **Breakfast Awareness.** Guests tend to have their bedrooms with breakfast package, so it might be good if management place more workers in the morning instead of noon or night. Even workers at the noon can be reduced and moved into the night shift. 
-- **Resources Efficiency.** Resources are precious, especially when it comes to food and humans. July and August are the best time to stock more food especially on Saturday and Monday where guests start to check-in the room. The restaurant team could increase the number of workers too, to handle guests when meal time has come. This is good for cost efficiency so the resources either humans or food might not be wasted.
+1. **More Rigid /Stricter  Cancellation T&C  For Customer Who has Cancelled Before.** This is  one way to  reducing the tendencies of customers who have cancelled before to cancelled again.
+2. **Non Refundable Only for Group Booking.** Group Booking has a higher cancellation rate compared to the confirmed rate,  with this policy hotel would not suffer  any loss revenue caused by cancelled group booking.
+3. **Non Refundable Booking Only For Booking with More than 210 lead days.** Since Customer who has more than 210  lead days has a higher chance of cancellation, having this policy will protect the hotel from losing revenue.
+4. **Breakfast Awareness.** Guests tend to have their bedrooms with breakfast package, so it might be good if management place more workers in the morning instead of noon or night. Even workers at the noon can be reduced and moved into the night shift. 
+5. **Resources Efficiency.** Resources are precious, especially when it comes to food and humans. July and August are the best time to stock more food especially on Saturday and Monday where guests start to check-in the room. The restaurant team could increase the number of workers too, to handle guests when meal time has come. This is good for cost efficiency so the resources either humans or food might not be wasted.
