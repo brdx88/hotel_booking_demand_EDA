@@ -22,7 +22,7 @@ We, as a management level of the hotel, do not want these inefficient resources 
 3. Customer who has 7 month or more lead time have a higher tendencies to cancel their booking
 4. Traveler that has cancelled 1 time before has the highest tendencies to cancel again
 5. Guests tend to book their rooms with breakfast instead of lunch or dinner.
-6. Most guests come and start to stay in May, July, August, and October.
+6. Most guests come and start to stay in June, July, and August.
 7. In Portugal, the busiest month in the hotels are July and August, especially on Saturday and Monday when guests start to check-in.
 
 # Recommendations
@@ -30,4 +30,4 @@ We, as a management level of the hotel, do not want these inefficient resources 
 2. **Non Refundable Only for Group Booking.** Group Booking has a higher cancellation rate compared to the confirmed rate,  with this policy hotel would not suffer  any loss revenue caused by cancelled group booking.
 3. **Non Refundable Booking Only For Booking with More than 210 lead days.** Since Customer who has more than 210  lead days has a higher chance of cancellation, having this policy will protect the hotel from losing revenue.
 4. **Breakfast Awareness.** Guests tend to have their bedrooms with breakfast package, so it might be good if management place more workers in the morning instead of noon or night. Even workers at the noon can be reduced and moved into the night shift. 
-5. **Resources Efficiency.** Resources are precious, especially when it comes to food and humans. July and August are the best time to stock more food especially on Saturday and Monday where guests start to check-in the room. The restaurant team could increase the number of workers too, to handle guests when meal time has come. This is good for cost efficiency so the resources either humans or food might not be wasted.
+5. **Resources Efficiency.** Resources are precious, especially when it comes to food and humans. July and August are the best time to stock more food especially on Saturday and Sunday where guests start to check-in the room. The restaurant team could increase the number of workers too, to handle guests when meal time has come. This is good for cost efficiency so the resources either humans or food might not be wasted.
