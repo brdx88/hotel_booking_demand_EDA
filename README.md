@@ -17,7 +17,23 @@ We, as a management level of the hotel, do not want these inefficient resources 
 2. Maximize resources within hotels.
 
 
-![market problems](https://github.com/brdx88/hotel_booking_demand_EDA/blob/main/1.png)
+![Hospitality Trends](https://github.com/brdx88/hotel_booking_demand_EDA/blob/main/1.png)
+![Cancelation Trend](https://github.com/brdx88/hotel_booking_demand_EDA/blob/main/2.png)
+![Number of Guests by Year](https://github.com/brdx88/hotel_booking_demand_EDA/blob/main/3.png)
+![Average Guests Check-in by Year](https://github.com/brdx88/hotel_booking_demand_EDA/blob/main/4.png)
+![Cancelation by Hotels Type](https://github.com/brdx88/hotel_booking_demand_EDA/blob/main/5.png)
+![Number of Booking and Cancelation](https://github.com/brdx88/hotel_booking_demand_EDA/blob/main/6.png)
+![Market Segment & Cancelation](https://github.com/brdx88/hotel_booking_demand_EDA/blob/main/7.png)
+![Deposit Type & Cancelation](https://github.com/brdx88/hotel_booking_demand_EDA/blob/main/8.png)
+![Previous Cancelation & Cancelation](https://github.com/brdx88/hotel_booking_demand_EDA/blob/main/9.png)
+![Lead Time & Cancelation](https://github.com/brdx88/hotel_booking_demand_EDA/blob/main/10.png)
+![Lead Time Data Distribution](https://github.com/brdx88/hotel_booking_demand_EDA/blob/main/11.png)
+![Average Daily Rate & Cancelation](https://github.com/brdx88/hotel_booking_demand_EDA/blob/main/12.png)
+![Reserve Room & Cancelation](https://github.com/brdx88/hotel_booking_demand_EDA/blob/main/13.png)
+![Hotel Guest Arrival by Day](https://github.com/brdx88/hotel_booking_demand_EDA/blob/main/14.png)
+![Average Guests Check-in Trend by Month](https://github.com/brdx88/hotel_booking_demand_EDA/blob/main/15.png)
+![Average Daily Check-in by Month](https://github.com/brdx88/hotel_booking_demand_EDA/blob/main/16.png)
+![Average Daily Check-in by Month Cluster](https://github.com/brdx88/hotel_booking_demand_EDA/blob/main/17.png)
 
 
 
