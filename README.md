@@ -54,4 +54,4 @@ We, as a management level of the hotel, do not want these inefficient resources 
 4. **Breakfast Awareness.** Guests tend to have their bedrooms with breakfast package, so it might be good if management place more workers in the morning instead of noon or night. Even workers at the noon can be reduced and moved into the night shift. 
 5. **Resources Efficiency.** Resources are precious, especially when it comes to food and humans. July and August are the best time to stock more food especially on Saturday and Sunday where guests start to check-in the room. The restaurant team could increase the number of workers too, to handle guests when meal time has come. This is good for cost efficiency so the resources either humans or food might not be wasted.
 
-#### See more insights [here](https://github.com/brdx88/hotel_booking_demand_EDA/blob/main/hotel_booking_demand_EDA.ipynb)
+#### See more insights [here](https://github.com/brdx88/hotel_booking_demand_EDA/blob/main/hotel_booking_demand_EDA.ipynb).
