@@ -45,7 +45,7 @@ We, as a management level of the hotel, do not want these inefficient resources 
 4. Traveler that has cancelled 1 time before has the highest tendencies to cancel again
 5. Guests tend to book their rooms with breakfast instead of lunch or dinner.
 6. Most guests come and start to stay in June, July, and August.
-7. In Portugal, the busiest month in the hotels are July and August, especially on Saturday and Monday when guests start to check-in.
+7. In Portugal, the busiest month in the hotels are July and August, especially on Saturday and Sunday when guests start to check-in.
 
 # Recommendations
 1. **More Rigid /Stricter  Cancellation T&C  For Customer Who has Cancelled Before.** This is  one way to  reducing the tendencies of customers who have cancelled before to cancelled again.
