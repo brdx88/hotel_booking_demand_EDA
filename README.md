@@ -17,7 +17,7 @@ We, as a management level of the hotel, do not want these inefficient resources 
 2. Maximize resources within hotels.
 
 
-![market problems](https://github.com/brdx88/hotel_booking_demand_EDA/blob/main1.png?raw=true)
+![market problems](https://github.com/brdx88/hotel_booking_demand_EDA/blob/main1.png)
 
 
 
