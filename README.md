@@ -16,6 +16,12 @@ We, as a management level of the hotel, do not want these inefficient resources 
 1. Find out what lead into high cancelation rate for hotels.
 2. Maximize resources within hotels.
 
+
+![alt text](https://github.com/brdx88/hotel_booking_demand_EDA/blob/main/1.jpg?raw=true)
+
+
+
+
 # Conclusion
 1. Number Booking have a positive correlation with the number of cancellation
 2. Group Booking is the only market segment that have a higher cancellation  arrival  compared to it’s confirmed arrival
