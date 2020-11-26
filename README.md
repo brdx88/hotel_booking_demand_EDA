@@ -1,4 +1,7 @@
 # Exploratory Data Analysis of Hotel Booking Demand
+
+![Hospitality Trends](https://github.com/brdx88/hotel_booking_demand_EDA/blob/main/hotel.jpg)
+
 This data set contains booking information for a city hotel, a resort hotel, and includes information such as when the booking was made, length of stay, the number of adults, children, and/or babies, and the number of available parking spaces, among other things.
 
 We found this data set on [Kaggle](https://www.kaggle.com/jessemostipak/hotel-booking-demand) but the data is originally from the article [Hotel Booking Demand Datasets - ScienceDirect](https://www.sciencedirect.com/science/article/pii/S2352340918315191) written in journal named [Data in Brief](https://www.sciencedirect.com/journal/data-in-brief), Volume 22, February 2019. 
